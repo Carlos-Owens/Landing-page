@@ -157,3 +157,14 @@ button {
     height: 25px;
     border-radius: 5px;
 }
+.footer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+}
+.Me {
+    color: #f9faf8;
+
+}
