@@ -63,10 +63,10 @@ img {
 button {
     background-color: #3883f6;
     color: #f9faf8;
-    width: 100px;
-    height: 20px;
-    border-radius: 5px;
+    width: 70px;
+    height: 25px;
     border: 1px #f9faf8;
+    border-radius: 5px;
 }
 .random {
     height: 300px;
@@ -123,4 +123,37 @@ button {
     font-style: italic;
     margin-top: 5%;
 }
-
+.container-a {
+    display: flex;
+    height:300px;
+    justify-content: center;
+    align-items: center;
+}
+.action .call{
+    display: flex;
+    
+}
+.call-a {
+    display: flex;
+    justify-content: space-between;
+}
+.action {
+    background-color: #3883f6;
+    width: 1000px;
+    padding: 30px 50px;
+    border-radius: 5px;
+}
+.call {
+    color: #f9faf8;
+    font-size: 18px;
+}
+.action-text {
+    color: #f9faf8;
+    font-size: 18px;
+}
+.sign-up2 {
+    border: 1px solid #f9faf8;
+    width: 70px;
+    height: 25px;
+    border-radius: 5px;
+}
